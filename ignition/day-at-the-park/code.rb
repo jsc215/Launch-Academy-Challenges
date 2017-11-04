@@ -1,0 +1,11 @@
+size = "large"
+who = "Christine"
+color = "blue"
+how_cold = "freezing cold"
+crazy_or_calm = "crazy"
+
+puts "I got a " + size + " sundae and it was delicious."
+puts who + " screamed the loudest on the bus. What's her deal?"
+puts "Without a doubt, " + color + " is the most delicious cotton candy color."
+puts "The wave pool was fun but the water was " + how_cold + "."
+puts "All of my favorite rides were " + crazy_or_calm  + "."

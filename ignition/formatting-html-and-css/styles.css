@@ -1,0 +1,46 @@
+body {
+  font-family: sans-serif;
+  background-color: #e9eae2;
+  margin: 8px;
+}
+
+.banner {
+  background-color: #ff6300;
+  text-align: center;
+  padding: 4px;
+}
+
+ #website-name {
+  font-family: Garamond, serif;
+  font-weight: bold;
+  color: white;
+  float: left;
+  padding: 1px;
+}
+
+#website-slogan {
+  font-weight: bold;
+  font-family: Garamond, serif;
+}
+
+img {
+  width: 300px;
+}
+
+.purple-banner {
+  background-color: #40376E;
+  text-align: center;
+  padding: 4px
+}
+
+.green-banner {
+  background-color: #AAC0AA;
+  text-align: center;
+  padding: 4px
+}
+
+.gray-banner {
+  background-color: #7D8491;
+  text-align: center;
+  padding: 4px
+}
